@@ -1,0 +1,2 @@
+seaborn==0.13.2
+pyfunctional==1.5.0
